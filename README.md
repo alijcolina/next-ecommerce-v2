@@ -12,12 +12,6 @@
 
 ![next amazona v2](/public/app.jpg)
 
-## Resources
-
-- Youtube Video : https://youtu.be/---
-- Demo Website :  https://next-amazona-v2.vercel.app/
-- Source Code   :  https://github.com/basir/next-amazona-v2
-- Full Course: [basir.thinkific.com](https://basir.thinkific.com/courses/build-ecommerce-website-like-amazon-by-next-js?coupon=SAVE90)
 
 ## What you will learn
 
@@ -30,10 +24,7 @@
 - PayPal developer api to make online payment
 - Deploy web applications on servers like Vercel and Netlify
 
-## Full Course
 
-Get this course by 90% discount on Thinkific:
-https://basir.thinkific.com/courses/build-ecommerce-website-like-amazon-by-next-js?coupon=SAVE90
 
 ## Run Locally
 
